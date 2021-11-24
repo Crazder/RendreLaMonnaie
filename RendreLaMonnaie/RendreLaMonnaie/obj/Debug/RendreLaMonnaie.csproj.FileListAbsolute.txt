@@ -1,0 +1,7 @@
+G:\BTS SIO\Clé M. Verghote\Bloc 1\Base de la pragrammation\Projet\RendreLaMonnaie\RendreLaMonnaie\obj\Debug\RendreLaMonnaie.csproj.AssemblyReference.cache
+G:\BTS SIO\Clé M. Verghote\Bloc 1\Base de la pragrammation\Projet\RendreLaMonnaie\RendreLaMonnaie\obj\Debug\RendreLaMonnaie.csproj.CoreCompileInputs.cache
+G:\BTS SIO\Clé M. Verghote\Bloc 1\Base de la pragrammation\Projet\RendreLaMonnaie\RendreLaMonnaie\bin\Debug\RendreLaMonnaie.exe.config
+G:\BTS SIO\Clé M. Verghote\Bloc 1\Base de la pragrammation\Projet\RendreLaMonnaie\RendreLaMonnaie\bin\Debug\RendreLaMonnaie.exe
+G:\BTS SIO\Clé M. Verghote\Bloc 1\Base de la pragrammation\Projet\RendreLaMonnaie\RendreLaMonnaie\bin\Debug\RendreLaMonnaie.pdb
+G:\BTS SIO\Clé M. Verghote\Bloc 1\Base de la pragrammation\Projet\RendreLaMonnaie\RendreLaMonnaie\obj\Debug\RendreLaMonnaie.exe
+G:\BTS SIO\Clé M. Verghote\Bloc 1\Base de la pragrammation\Projet\RendreLaMonnaie\RendreLaMonnaie\obj\Debug\RendreLaMonnaie.pdb
